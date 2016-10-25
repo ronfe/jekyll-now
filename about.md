@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello there.
 
-I am JI Hongfei, a data analyzer and team leader at guanghe.tv (Yangcong Math)
+I am JI Hongfei (姬弘飞), a data analyzer and team leader at guanghe.tv (Yangcong Math)
 
 ### Basic Resume
 
@@ -31,4 +31,5 @@ I am JI Hongfei, a data analyzer and team leader at guanghe.tv (Yangcong Math)
 ### Contact me
 
 * Addr: 北京市西城区大外廊营胡同8号 (100050)
+* Site: http://ronfe.io
 * Mail: hongfei at guanghe dot tv
