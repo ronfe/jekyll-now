@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about/en/
 ---
 
 Hello there.
@@ -27,6 +27,7 @@ I am JI Hongfei (姬弘飞), a data analyzer and team leader at guanghe.tv (Yang
 
 * Now: Python / MongoDB
 * Future: SMACK - Spark / Mesos / Akka / Cassandra / Kafka
+* Numpy / Scipy / Scikit-Learn
 
 ### Contact me
 
